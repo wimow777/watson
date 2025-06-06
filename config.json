@@ -1,0 +1,21 @@
+{
+    "name": "Watson",
+    "version": "2.0",
+    "hotkey": "F1",
+    "security_enabled": true,
+    "log_file": "logs/watson.log",
+    "personality": 2,
+    "theme": 3,
+    "voice_enabled": true,
+    "text_enabled": true,
+    "continuous_listening": true,
+    "wake_word": "watson",
+    "weather_checks": true,
+    "location": "Madrid",
+    "performance_mode": false,
+    "quarantine_folder": "quarantine",
+    "reminders": [],
+    "routines": {},
+    "plugins": {},
+    "auto_update": true
+}
